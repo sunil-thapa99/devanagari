@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+canvas {
+	background: #FFF;
+	display: block;
+	margin: 40px auto 10px;
+	border-radius: 5px;
+	border-left: 1px solid #E0E0E0;
+	border-right: 1px solid #E0E0E0;
+	border-top: 1px solid #E0E0E0;
+	box-shadow: 0 4px 0 0 #E0E0E0;
+	cursor: crosshair;
+}
+
+#solve_section{
+	display: none;
+}
+
+#image_display{
+	background-color: #FFF;
+}
